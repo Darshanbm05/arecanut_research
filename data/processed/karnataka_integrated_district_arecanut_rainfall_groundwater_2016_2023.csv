@@ -1,0 +1,523 @@
+State,District,Year,Year_start,Area_ha,Production_t,Yield_t_ha,District_Source,District_Mean_Annual_Rainfall_mm,District_Mean_JJAS_Rainfall_mm,Taluks_Rainfall_Contributing,District_Mean_Static_Water_Level_m_bgl,Taluks_Groundwater_Contributing,Estimated_GW_Records,Climate_GW_Match_Status
+1. Karnataka,Bagalkot,1998,1998,1.0,7.0,7.0,Bagalkot,,,,,,,No district-year match
+1. Karnataka,Bagalkot,2000,2000,4.0,6.0,1.5,Bagalkot,,,,,,,No district-year match
+1. Karnataka,Bagalkot,2001,2001,4.0,6.0,1.5,Bagalkot,,,,,,,No district-year match
+1. Karnataka,Bagalkot,2003,2003,6.0,8.0,1.33,Bagalkot,,,,,,,No district-year match
+1. Karnataka,Bagalkot,2004,2004,2.0,3.0,1.5,Bagalkot,,,,,,,No district-year match
+1. Karnataka,Bagalkot,2019,2019,4.0,43.0,10.75,Bagalkot,730.5786922200521,412.1277933756511,10.0,17.119999999999997,9.0,1.0,Matched district-year
+1. Karnataka,Bagalkot,2020,2020,5.0,56.0,11.2,Bagalkot,890.5832161458333,605.7500036621093,10.0,12.552222222222222,9.0,1.0,Matched district-year
+1. Karnataka,Bagalkot,2021,2021,2.0,22.0,11.0,Bagalkot,627.627919921875,414.13990295410156,10.0,11.397777777777778,9.0,1.0,Matched district-year
+1. Karnataka,Bagalkot,2022,2022,1.0,7.0,7.0,Bagalkot,842.8717342122396,517.9809393310546,10.0,10.67,9.0,1.0,Matched district-year
+1. Karnataka,Bangalore Rural,1998,1998,479.0,3226.0,6.73,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2000,2000,514.0,719.0,1.4,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2001,2001,1828.0,2557.0,1.4,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2003,2003,1998.0,2795.0,1.4,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2004,2004,1975.0,2763.0,1.4,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2005,2005,2099.0,14137.0,6.74,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2006,2006,2257.0,3157.0,1.4,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2007,2007,1377.0,9274.0,6.73,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2008,2008,1338.0,9011.0,6.73,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2009,2009,1100.0,7408.0,6.73,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2010,2010,1213.0,13116.0,10.81,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2011,2011,1615.0,13079.0,8.1,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2012,2012,1380.0,11076.0,8.03,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2013,2013,1695.0,18880.0,11.14,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2014,2014,1519.0,14055.0,9.25,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2015,2015,1569.0,15379.0,9.8,Bangalore rural,,,,,,,No district-year match
+1. Karnataka,Bangalore Rural,2016,2016,2322.0,23588.0,10.16,Bangalore rural,700.1150197347006,427.4946614583333,4.0,34.81,4.0,0.0,Matched district-year
+1. Karnataka,Bangalore Rural,2017,2017,1911.0,20726.0,10.85,Bangalore rural,1140.0527791341146,595.9462270100912,4.0,38.935,4.0,0.0,Matched district-year
+1. Karnataka,Bangalore Rural,2018,2018,2924.0,26108.0,8.93,Bangalore rural,645.1970296223958,288.4926122029622,4.0,38.457499999999996,4.0,0.0,Matched district-year
+1. Karnataka,Bangalore Rural,2019,2019,2780.0,30046.0,10.81,Bangalore rural,820.6452331542969,376.01843922932943,4.0,41.9025,4.0,0.0,Matched district-year
+1. Karnataka,Bangalore Rural,2020,2020,3014.0,33944.0,11.26,Bangalore rural,1049.2888997395835,621.9192342122396,4.0,38.8875,4.0,0.0,Matched district-year
+1. Karnataka,Bangalore Rural,2021,2021,3451.0,38588.0,11.18,Bangalore rural,1293.6224650065103,546.037250773112,4.0,37.144999999999996,4.0,0.0,Matched district-year
+1. Karnataka,Bangalore Rural,2022,2022,4028.0,38063.0,9.45,Bangalore rural,1527.9043986002605,860.6709533691406,4.0,30.0625,4.0,0.0,Matched district-year
+1. Karnataka,Belagavi,2003,2003,2.0,3.0,1.5,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2004,2004,8.0,11.0,1.38,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2005,2005,9.0,58.0,6.44,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2006,2006,9.0,12.0,1.33,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2007,2007,7.0,45.0,6.43,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2008,2008,7.0,45.0,6.43,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2009,2009,7.0,45.0,6.43,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2010,2010,1.0,11.0,11.0,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2011,2011,4.0,32.0,8.0,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2013,2013,2.0,22.0,11.0,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2014,2014,7.0,65.0,9.29,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2015,2015,4.0,39.0,9.75,Belgaum,,,,,,,No district-year match
+1. Karnataka,Belagavi,2016,2016,3.0,30.0,10.0,Belgaum,528.4521726384239,509.52500589683575,15.0,14.572,15.0,0.0,Matched district-year
+1. Karnataka,Belagavi,2018,2018,12.0,107.0,8.92,Belgaum,585.194802672371,495.30198780524034,15.0,13.170666666666667,15.0,0.0,Matched district-year
+1. Karnataka,Belagavi,2019,2019,9.0,97.0,10.78,Belgaum,1043.8964200846353,796.4246512276785,15.0,12.064666666666666,15.0,0.0,Matched district-year
+1. Karnataka,Belagavi,2020,2020,14.0,158.0,11.29,Belgaum,1023.8130877201141,804.4105853691303,15.0,10.208,15.0,0.0,Matched district-year
+1. Karnataka,Belagavi,2021,2021,22.0,241.0,10.95,Belgaum,884.6987214781745,648.2624757344887,15.0,9.616000000000001,15.0,0.0,Matched district-year
+1. Karnataka,Belagavi,2022,2022,38.0,371.0,9.76,Belgaum,995.3451226128473,684.9028862072173,15.0,9.388,15.0,0.0,Matched district-year
+1. Karnataka,Bellary,1997,1997,64.0,92.0,1.44,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,1998,1998,6.0,40.0,6.67,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2000,2000,19.0,27.0,1.42,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2001,2001,26.0,37.0,1.42,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2003,2003,30.0,43.0,1.43,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2004,2004,32.0,46.0,1.44,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2005,2005,58.0,389.0,6.71,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2006,2006,62.0,89.0,1.44,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2007,2007,62.0,416.0,6.71,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2008,2008,62.0,416.0,6.71,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2009,2009,74.0,496.0,6.7,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2010,2010,103.0,1114.0,10.82,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2011,2011,108.0,875.0,8.1,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2012,2012,132.0,1059.0,8.02,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2013,2013,10.0,111.0,11.1,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2014,2014,1.0,9.0,9.0,Bellary,,,,,,,No district-year match
+1. Karnataka,Bellary,2016,2016,11.0,112.0,10.18,Bellary,375.6097778320312,302.2381783621652,5.0,6.965000000000001,5.0,1.0,Matched district-year
+1. Karnataka,Bellary,2017,2017,14.0,152.0,10.86,Bellary,709.520926920573,457.29379970005584,5.0,7.435,5.0,1.0,Matched district-year
+1. Karnataka,Bellary,2018,2018,1558.0,13911.0,8.93,Bellary,335.34251098632814,207.53776884533107,5.0,6.7525,5.0,1.0,Matched district-year
+1. Karnataka,Bellary,2019,2019,1263.0,13650.0,10.81,Bellary,632.022440592448,401.216848609561,5.0,5.368,5.0,0.0,Matched district-year
+1. Karnataka,Bellary,2020,2020,1477.0,16634.0,11.26,Bellary,824.4086059570312,632.1681663876489,5.0,5.532500000000001,5.0,1.0,Matched district-year
+1. Karnataka,Bellary,2021,2021,2036.0,22774.0,11.19,Bellary,692.5531087239583,362.151454671224,5.0,4.998,5.0,0.0,Matched district-year
+1. Karnataka,Bellary,2022,2022,134.0,806.0,6.01,Bellary,824.4632242838541,505.9349304199219,5.0,4.34,5.0,0.0,Matched district-year
+1. Karnataka,Bangalore Urban,1997,1997,762.0,1066.0,1.4,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,1998,1998,81.0,546.0,6.74,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2000,2000,81.0,113.0,1.4,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2001,2001,81.0,113.0,1.4,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2003,2003,216.0,302.0,1.4,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2004,2004,233.0,326.0,1.4,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2005,2005,274.0,1845.0,6.73,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2006,2006,247.0,346.0,1.4,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2007,2007,326.0,2196.0,6.74,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2008,2008,315.0,2122.0,6.74,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2009,2009,384.0,2586.0,6.73,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2010,2010,383.0,4141.0,10.81,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2011,2011,401.0,3247.0,8.1,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2012,2012,346.0,2777.0,8.03,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2013,2013,464.0,5168.0,11.14,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2014,2014,231.0,2137.0,9.25,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2015,2015,222.0,2176.0,9.8,Bengaluru urban,,,,,,,No district-year match
+1. Karnataka,Bangalore Urban,2016,2016,264.0,2682.0,10.16,Bengaluru urban,749.3782999674479,457.28410237630214,5.0,26.348000000000003,5.0,0.0,Matched district-year
+1. Karnataka,Bangalore Urban,2017,2017,297.0,3221.0,10.85,Bengaluru urban,1292.028515625,712.2375203450521,5.0,29.308000000000003,5.0,0.0,Matched district-year
+1. Karnataka,Bangalore Urban,2018,2018,401.0,3580.0,8.93,Bengaluru urban,739.1538045247396,337.91761067708336,5.0,25.106,5.0,0.0,Matched district-year
+1. Karnataka,Bangalore Urban,2019,2019,651.0,7036.0,10.81,Bengaluru urban,884.1309326171875,359.28647257486983,5.0,28.444,5.0,0.0,Matched district-year
+1. Karnataka,Bangalore Urban,2020,2020,834.0,9393.0,11.26,Bengaluru urban,1098.0711751302083,570.4976236979167,5.0,27.192,5.0,0.0,Matched district-year
+1. Karnataka,Bangalore Urban,2021,2021,836.0,9348.0,11.18,Bengaluru urban,1249.7527506510419,504.9806925455729,5.0,25.214,5.0,0.0,Matched district-year
+1. Karnataka,Bangalore Urban,2022,2022,901.0,6439.0,7.15,Bengaluru urban,1662.4780680338542,908.9535319010416,5.0,21.488,5.0,0.0,Matched district-year
+1. Karnataka,Vijayapur,2018,2018,3.0,27.0,9.0,Bijapur,387.42517496744796,244.5668463403052,13.0,16.923076923076923,13.0,0.0,Matched district-year
+1. Karnataka,Vijayapur,2019,2019,3.0,32.0,10.67,Bijapur,608.9828350360577,402.64475249685216,13.0,20.52,13.0,0.0,Matched district-year
+1. Karnataka,Vijayapur,2020,2020,7.0,79.0,11.29,Bijapur,844.5168932792468,573.4699610001002,13.0,13.284615384615384,13.0,0.0,Matched district-year
+1. Karnataka,Vijayapur,2022,2022,1.0,7.0,7.0,Bijapur,846.3377084585336,569.1288256522937,13.0,10.40846153846154,13.0,0.0,Matched district-year
+1. Karnataka,Chamrajnagar,1998,1998,174.0,610.0,3.51,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2000,2000,329.0,234.0,0.71,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2001,2001,279.0,198.0,0.71,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2003,2003,309.0,219.0,0.71,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2004,2004,309.0,219.0,0.71,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2005,2005,311.0,1091.0,3.51,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2006,2006,311.0,221.0,0.71,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2007,2007,317.0,1112.0,3.51,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2008,2008,317.0,1112.0,3.51,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2009,2009,331.0,1161.0,3.51,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2010,2010,332.0,3590.0,10.81,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2011,2011,332.0,2689.0,8.1,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2012,2012,332.0,2665.0,8.03,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2013,2013,297.0,3308.0,11.14,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2014,2014,300.0,2776.0,9.25,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2015,2015,301.0,2950.0,9.8,Chamarajanagar,,,,,,,No district-year match
+1. Karnataka,Chamrajnagar,2016,2016,347.0,3525.0,10.16,Chamarajanagar,420.4760355631511,255.02664184570312,5.0,16.236,5.0,0.0,Matched district-year
+1. Karnataka,Chamrajnagar,2017,2017,351.0,3807.0,10.85,Chamarajanagar,1073.7237548828125,492.32727457682296,5.0,18.666,5.0,0.0,Matched district-year
+1. Karnataka,Chamrajnagar,2018,2018,703.0,6277.0,8.93,Chamarajanagar,623.5822184244792,312.64042256673173,5.0,16.5,5.0,0.0,Matched district-year
+1. Karnataka,Chamrajnagar,2019,2019,793.0,8571.0,10.81,Chamarajanagar,807.7161539713541,401.1984517415365,5.0,16.316,5.0,0.0,Matched district-year
+1. Karnataka,Chamrajnagar,2020,2020,1083.0,12197.0,11.26,Chamarajanagar,898.6634440104168,507.4609578450521,5.0,13.974,5.0,0.0,Matched district-year
+1. Karnataka,Chamrajnagar,2021,2021,992.0,11091.0,11.18,Chamarajanagar,993.5069742838541,386.4889994303386,5.0,15.624,5.0,0.0,Matched district-year
+1. Karnataka,Chamrajnagar,2022,2022,1332.0,8324.0,6.25,Chamarajanagar,1353.1061279296875,688.7644327799478,5.0,10.038,5.0,0.0,Matched district-year
+1. Karnataka,Chikkaballapura,2010,2010,296.0,3201.0,10.81,Chikballapur,,,,,,,No district-year match
+1. Karnataka,Chikkaballapura,2011,2011,159.0,1288.0,8.1,Chikballapur,,,,,,,No district-year match
+1. Karnataka,Chikkaballapura,2012,2012,159.0,1276.0,8.03,Chikballapur,,,,,,,No district-year match
+1. Karnataka,Chikkaballapura,2013,2013,159.0,1771.0,11.14,Chikballapur,,,,,,,No district-year match
+1. Karnataka,Chikkaballapura,2014,2014,140.0,1295.0,9.25,Chikballapur,,,,,,,No district-year match
+1. Karnataka,Chikkaballapura,2015,2015,182.0,1784.0,9.8,Chikballapur,,,,,,,No district-year match
+1. Karnataka,Chikkaballapura,2016,2016,108.0,1097.0,10.16,Chikballapur,567.942217763265,321.88507385253905,8.0,38.28333333333333,6.0,2.0,Matched district-year
+1. Karnataka,Chikkaballapura,2017,2017,110.0,1193.0,10.85,Chikballapur,922.6660405476888,456.9263987223307,8.0,38.263333333333335,6.0,2.0,Matched district-year
+1. Karnataka,Chikkaballapura,2018,2018,422.0,3768.0,8.93,Chikballapur,501.0729535420736,249.890119934082,8.0,47.276666666666664,6.0,2.0,Matched district-year
+1. Karnataka,Chikkaballapura,2019,2019,413.0,4464.0,10.81,Chikballapur,687.7324345906576,353.86519724527994,8.0,55.14666666666667,6.0,2.0,Matched district-year
+1. Karnataka,Chikkaballapura,2020,2020,469.0,5282.0,11.26,Chikballapur,1030.786395263672,638.9912017822265,8.0,54.75833333333333,6.0,2.0,Matched district-year
+1. Karnataka,Chikkaballapura,2021,2021,618.0,6915.0,11.19,Chikballapur,1206.3024831136067,477.7508005777995,8.0,37.085,6.0,2.0,Matched district-year
+1. Karnataka,Chikkaballapura,2022,2022,746.0,5705.0,7.65,Chikballapur,1073.8886952718099,581.2874875386556,8.0,17.783333333333335,6.0,2.0,Matched district-year
+1. Karnataka,Chikmagalur,1997,1997,12478.0,14293.0,1.15,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,1998,1998,12622.0,76737.0,6.08,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2000,2000,14186.0,16249.0,1.15,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2001,2001,15796.0,18093.0,1.15,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2003,2003,16347.0,18724.0,1.15,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2004,2004,16616.0,19032.0,1.15,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2005,2005,18192.0,110600.0,6.08,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2006,2006,19046.0,21816.0,1.15,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2007,2007,19453.0,118266.0,6.08,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2008,2008,19751.0,120078.0,6.08,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2009,2009,20563.0,125015.0,6.08,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2010,2010,21517.0,232659.0,10.81,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2011,2011,23085.0,120327.0,5.21,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2012,2012,26470.0,137971.0,5.21,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2013,2013,26814.0,298667.0,11.14,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2014,2014,27765.0,147882.0,5.33,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2015,2015,29322.0,152691.0,5.21,Chikmagalur,,,,,,,No district-year match
+1. Karnataka,Chikmagalur,2016,2016,29045.0,166201.0,5.72,Chikmagalur,1129.7516755280672,945.2782136140047,9.0,10.145555555555555,9.0,0.0,Matched district-year
+1. Karnataka,Chikmagalur,2017,2017,29298.0,198104.0,6.76,Chikmagalur,1367.3784677010997,1046.518371129919,9.0,13.13,9.0,0.0,Matched district-year
+1. Karnataka,Chikmagalur,2018,2018,60660.0,335699.0,5.53,Chikmagalur,2044.5516511140045,1570.9018224645542,9.0,14.084444444444445,9.0,0.0,Matched district-year
+1. Karnataka,Chikmagalur,2019,2019,63587.0,650915.0,10.24,Chikmagalur,2205.9977665653932,1614.8630651403355,9.0,14.767777777777777,9.0,0.0,Matched district-year
+1. Karnataka,Chikmagalur,2020,2020,71539.0,424226.0,5.93,Chikmagalur,1828.2624891493058,1398.1169370298032,9.0,11.482222222222223,9.0,0.0,Matched district-year
+1. Karnataka,Chikmagalur,2021,2021,75912.0,461923.0,6.08,Chikmagalur,2097.6258138020835,1166.7872820818866,9.0,10.991111111111111,9.0,0.0,Matched district-year
+1. Karnataka,Chikmagalur,2022,2022,83867.0,666746.0,7.95,Chikmagalur,2189.386228660301,1626.8900851779513,9.0,8.36111111111111,9.0,0.0,Matched district-year
+1. Karnataka,Chitradurga,1997,1997,7524.0,7248.0,0.96,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,1998,1998,6113.0,28613.0,4.68,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2000,2000,9827.0,9466.0,0.96,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2001,2001,12153.0,11707.0,0.96,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2003,2003,14366.0,13838.0,0.96,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2004,2004,14498.0,13965.0,0.96,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2005,2005,12688.0,59389.0,4.68,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2006,2006,14820.0,14276.0,0.96,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2007,2007,15318.0,71699.0,4.68,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2008,2008,15465.0,72387.0,4.68,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2009,2009,16545.0,77443.0,4.68,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2010,2010,16229.0,160667.0,9.9,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2011,2011,16363.0,132511.0,8.1,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2012,2012,17251.0,138455.0,8.03,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2013,2013,16848.0,217251.0,12.89,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2014,2014,17190.0,194006.0,11.29,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2015,2015,17506.0,179375.0,10.25,Chitradurga,,,,,,,No district-year match
+1. Karnataka,Chitradurga,2016,2016,17663.0,160962.0,9.11,Chitradurga,314.0797125922309,229.31053495861235,6.0,18.56833333333333,6.0,0.0,Matched district-year
+1. Karnataka,Chitradurga,2017,2017,24244.0,260057.0,10.73,Chitradurga,607.4854674324157,358.9543897356306,6.0,22.861666666666668,6.0,0.0,Matched district-year
+1. Karnataka,Chitradurga,2018,2018,34385.0,379729.0,11.04,Chitradurga,484.47483685205856,221.72023417154946,6.0,26.625,6.0,0.0,Matched district-year
+1. Karnataka,Chitradurga,2019,2019,35058.0,364775.0,10.4,Chitradurga,736.2865862165178,387.3943218412853,6.0,28.50666666666667,6.0,0.0,Matched district-year
+1. Karnataka,Chitradurga,2020,2020,34866.0,377773.0,10.83,Chitradurga,764.6972257099454,514.1187633696056,6.0,17.296666666666667,6.0,0.0,Matched district-year
+1. Karnataka,Chitradurga,2021,2021,42883.0,464636.0,10.83,Chitradurga,971.2091789124503,352.9450241815476,6.0,12.535000000000002,6.0,0.0,Matched district-year
+1. Karnataka,Chitradurga,2022,2022,52615.0,436706.0,8.3,Chitradurga,1041.4817471943204,611.2679713657925,6.0,8.235,6.0,0.0,Matched district-year
+1. Karnataka,Dakshina Kannada,1997,1997,24727.0,44112.0,1.78,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,1998,1998,21698.0,181622.0,8.37,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2000,2000,25447.0,45397.0,1.78,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2001,2001,25578.0,45631.0,1.78,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2003,2003,27092.0,48332.0,1.78,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2004,2004,27209.0,48540.0,1.78,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2005,2005,27338.0,228831.0,8.37,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2006,2006,27481.0,49026.0,1.78,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2007,2007,27532.0,230455.0,8.37,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2008,2008,27575.0,230815.0,8.37,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2009,2009,27645.0,231401.0,8.37,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2010,2010,27668.0,339926.0,12.29,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2011,2011,27734.0,342934.0,12.37,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2012,2012,27921.0,345246.0,12.37,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2013,2013,28232.0,357756.0,12.67,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2014,2014,35183.0,447929.0,12.73,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2015,2015,35409.0,370005.0,10.45,Dakshin kannad,,,,,,,No district-year match
+1. Karnataka,Dakshina Kannada,2016,2016,36725.0,450109.0,12.26,Dakshin kannad,2550.916173993469,2355.682232246197,9.0,9.847142857142858,7.0,2.0,Matched district-year
+1. Karnataka,Dakshina Kannada,2017,2017,39396.0,425512.0,10.8,Dakshin kannad,2828.9762783151455,2451.790359416336,9.0,10.81,7.0,2.0,Matched district-year
+1. Karnataka,Dakshina Kannada,2018,2018,84157.0,700266.0,8.32,Dakshin kannad,4424.0017583292,3609.0020280464614,9.0,10.02,7.0,2.0,Matched district-year
+1. Karnataka,Dakshina Kannada,2019,2019,93151.0,1253263.0,13.45,Dakshin kannad,4048.0595933056384,3410.691681392609,9.0,11.905714285714286,7.0,2.0,Matched district-year
+1. Karnataka,Dakshina Kannada,2020,2020,95541.0,1295058.0,13.55,Dakshin kannad,3728.8191129815646,3185.128430886243,9.0,10.741428571428571,7.0,2.0,Matched district-year
+1. Karnataka,Dakshina Kannada,2021,2021,101689.0,1372798.0,13.5,Dakshin kannad,3842.1788977244546,2559.083423755787,9.0,10.574285714285715,7.0,2.0,Matched district-year
+1. Karnataka,Dakshina Kannada,2022,2022,107476.0,725460.0,6.75,Dakshin kannad,3811.793228391617,3204.1485111297125,9.0,11.914285714285715,7.0,2.0,Matched district-year
+1. Karnataka,Davanagere,1998,1998,12332.0,57723.0,4.68,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2000,2000,14476.0,13944.0,0.96,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2001,2001,19487.0,18771.0,0.96,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2003,2003,21235.0,20455.0,0.96,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2004,2004,22015.0,21206.0,0.96,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2005,2005,23241.0,108785.0,4.68,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2006,2006,22779.0,21942.0,0.96,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2007,2007,24229.0,113409.0,4.68,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2008,2008,26931.0,126056.0,4.68,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2009,2009,28518.0,133485.0,4.68,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2010,2010,33336.0,422764.0,12.68,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2011,2011,32199.0,260754.0,8.1,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2012,2012,29415.0,236083.0,8.03,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2013,2013,26291.0,345913.0,13.16,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2014,2014,32316.0,232268.0,7.19,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2015,2015,35045.0,308955.0,8.82,Davangere,,,,,,,No district-year match
+1. Karnataka,Davanagere,2016,2016,35796.0,406297.0,11.35,Davangere,474.9033603244358,366.634033203125,6.0,12.396666666666667,6.0,0.0,Matched district-year
+1. Karnataka,Davanagere,2017,2017,44723.0,649526.0,14.52,Davangere,733.9659254286025,454.45186598036025,6.0,13.045,6.0,0.0,Matched district-year
+1. Karnataka,Davanagere,2018,2018,62501.0,582253.0,9.32,Davangere,653.2204644097222,346.9077616373698,6.0,10.695,6.0,0.0,Matched district-year
+1. Karnataka,Davanagere,2019,2019,64850.0,539293.0,8.32,Davangere,907.65226304796,480.21486884223094,6.0,11.57,6.0,0.0,Matched district-year
+1. Karnataka,Davanagere,2020,2020,68522.0,741751.0,10.83,Davangere,868.0608927408854,535.1758043077257,6.0,9.943333333333333,6.0,0.0,Matched district-year
+1. Karnataka,Davanagere,2021,2021,75260.0,891456.0,11.85,Davangere,1145.495583767361,510.69948730468747,6.0,8.0,6.0,0.0,Matched district-year
+1. Karnataka,Davanagere,2022,2022,83088.0,697942.0,8.4,Davangere,1255.8549248589409,691.0903754340278,6.0,5.435,6.0,0.0,Matched district-year
+1. Karnataka,Dharwad,1997,1997,219.0,306.0,1.4,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,1998,1998,7.0,47.0,6.71,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2000,2000,17.0,24.0,1.41,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2001,2001,10.0,14.0,1.4,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2003,2003,8.0,11.0,1.38,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2004,2004,11.0,15.0,1.36,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2005,2005,15.0,101.0,6.73,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2006,2006,18.0,25.0,1.39,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2007,2007,17.0,114.0,6.71,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2008,2008,9.0,61.0,6.78,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2009,2009,15.0,101.0,6.73,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2010,2010,16.0,173.0,10.81,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2011,2011,16.0,130.0,8.13,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2012,2012,4.0,32.0,8.0,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2013,2013,17.0,189.0,11.12,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2014,2014,14.0,130.0,9.29,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2015,2015,18.0,176.0,9.78,Dharwad,,,,,,,No district-year match
+1. Karnataka,Dharwad,2016,2016,29.0,295.0,10.17,Dharwad,488.3270767211914,373.8001073201497,8.0,14.67625,8.0,0.0,Matched district-year
+1. Karnataka,Dharwad,2017,2017,32.0,347.0,10.84,Dharwad,639.7583404541016,404.59997533162436,8.0,16.0625,8.0,0.0,Matched district-year
+1. Karnataka,Dharwad,2018,2018,101.0,902.0,8.93,Dharwad,694.3305358886719,356.1402557373047,8.0,15.815000000000001,8.0,0.0,Matched district-year
+1. Karnataka,Dharwad,2019,2019,110.0,1189.0,10.81,Dharwad,1173.2859461466471,754.5306894938151,8.0,14.768749999999999,8.0,0.0,Matched district-year
+1. Karnataka,Dharwad,2020,2020,167.0,1881.0,11.26,Dharwad,990.1286087036133,681.2863250732422,8.0,9.805,8.0,0.0,Matched district-year
+1. Karnataka,Dharwad,2021,2021,156.0,1743.0,11.17,Dharwad,1094.5142710367838,554.9221412658692,8.0,8.57375,8.0,0.0,Matched district-year
+1. Karnataka,Dharwad,2022,2022,185.0,1500.0,8.11,Dharwad,1187.5254770914714,696.0953211466472,8.0,6.9425,8.0,0.0,Matched district-year
+1. Karnataka,Gadag,2003,2003,2.0,3.0,1.5,Gadag,,,,,,,No district-year match
+1. Karnataka,Gadag,2004,2004,3.0,4.0,1.33,Gadag,,,,,,,No district-year match
+1. Karnataka,Gadag,2005,2005,3.0,19.0,6.33,Gadag,,,,,,,No district-year match
+1. Karnataka,Gadag,2006,2006,3.0,4.0,1.33,Gadag,,,,,,,No district-year match
+1. Karnataka,Gadag,2007,2007,3.0,19.0,6.33,Gadag,,,,,,,No district-year match
+1. Karnataka,Gadag,2008,2008,3.0,19.0,6.33,Gadag,,,,,,,No district-year match
+1. Karnataka,Gadag,2009,2009,3.0,19.0,6.33,Gadag,,,,,,,No district-year match
+1. Karnataka,Gadag,2010,2010,3.0,32.0,10.67,Gadag,,,,,,,No district-year match
+1. Karnataka,Gadag,2014,2014,5.0,46.0,9.2,Gadag,,,,,,,No district-year match
+1. Karnataka,Gadag,2015,2015,2.0,20.0,10.0,Gadag,,,,,,,No district-year match
+1. Karnataka,Gadag,2016,2016,2.0,20.0,10.0,Gadag,405.6924525669643,308.63877505347835,7.0,15.911428571428571,7.0,0.0,Matched district-year
+1. Karnataka,Gadag,2017,2017,3.0,33.0,11.0,Gadag,643.0074753534226,403.4813799176897,7.0,17.335714285714285,7.0,0.0,Matched district-year
+1. Karnataka,Gadag,2018,2018,9.0,80.0,8.89,Gadag,497.81607491629467,252.72181047712053,7.0,15.459999999999999,7.0,0.0,Matched district-year
+1. Karnataka,Gadag,2019,2019,17.0,184.0,10.82,Gadag,887.4432925269717,529.271961030506,7.0,14.709999999999999,7.0,0.0,Matched district-year
+1. Karnataka,Gadag,2020,2020,20.0,225.0,11.25,Gadag,955.0313836960565,605.6251366024926,7.0,9.744285714285715,7.0,0.0,Matched district-year
+1. Karnataka,Gadag,2021,2021,38.0,427.0,11.24,Gadag,879.2723795572917,473.45693824404765,7.0,10.125714285714285,7.0,0.0,Matched district-year
+1. Karnataka,Gadag,2022,2022,145.0,907.0,6.26,Gadag,1022.10009765625,591.1021234421503,7.0,8.914285714285715,7.0,0.0,Matched district-year
+1. Karnataka,Kalaburgi,2018,2018,1.0,9.0,9.0,Gulbarga,495.7379122647372,374.1979061770749,11.0,6.131818181818182,11.0,0.0,Matched district-year
+1. Karnataka,Hassan,1997,1997,1793.0,1752.0,0.98,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,1998,1998,1805.0,9666.0,5.36,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2000,2000,1922.0,1878.0,0.98,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2001,2001,2128.0,2079.0,0.98,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2003,2003,3193.0,3120.0,0.98,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2004,2004,3483.0,3403.0,0.98,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2005,2005,3680.0,19706.0,5.35,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2006,2006,3819.0,3732.0,0.98,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2007,2007,3880.0,20777.0,5.35,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2008,2008,3928.0,21034.0,5.35,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2009,2009,4110.0,22009.0,5.35,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2010,2010,4192.0,45327.0,10.81,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2011,2011,4325.0,31193.0,7.21,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2012,2012,4598.0,33161.0,7.21,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2013,2013,4405.0,34430.0,7.82,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2014,2014,32.0,296.0,9.25,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2015,2015,3650.0,35777.0,9.8,Hassan,,,,,,,No district-year match
+1. Karnataka,Hassan,2016,2016,3436.0,34904.0,10.16,Hassan,640.3733277820405,442.25635074433825,8.0,14.576666666666668,7.0,2.0,Matched district-year
+1. Karnataka,Hassan,2017,2017,3553.0,38534.0,10.85,Hassan,979.4880419049944,573.3130804152715,8.0,16.19,7.0,2.0,Matched district-year
+1. Karnataka,Hassan,2018,2018,7624.0,68073.0,8.93,Hassan,1282.3603397187733,774.0111172630674,8.0,17.32,7.0,2.0,Matched district-year
+1. Karnataka,Hassan,2019,2019,8579.0,92720.0,10.81,Hassan,1363.9980211530412,846.4331685747419,8.0,16.961666666666666,7.0,2.0,Matched district-year
+1. Karnataka,Hassan,2020,2020,12102.0,136293.0,11.26,Hassan,1184.2040648687453,736.6154669625419,8.0,13.338333333333333,7.0,2.0,Matched district-year
+1. Karnataka,Hassan,2021,2021,14207.0,163381.0,11.5,Hassan,1487.5364916120257,602.6466052464076,8.0,11.896666666666667,7.0,2.0,Matched district-year
+1. Karnataka,Hassan,2022,2022,15875.0,102394.0,6.45,Hassan,1839.7944385346914,1057.3023307436988,8.0,7.21,7.0,2.0,Matched district-year
+1. Karnataka,Haveri,1998,1998,225.0,1515.0,6.73,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2000,2000,360.0,503.0,1.4,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2001,2001,507.0,708.0,1.4,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2003,2003,634.0,886.0,1.4,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2004,2004,717.0,1002.0,1.4,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2005,2005,715.0,4816.0,6.74,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2006,2006,794.0,1109.0,1.4,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2007,2007,922.0,6210.0,6.74,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2008,2008,1043.0,7025.0,6.74,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2009,2009,1288.0,8675.0,6.74,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2010,2010,1580.0,17084.0,10.81,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2011,2011,1655.0,13403.0,8.1,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2012,2012,1873.0,15033.0,8.03,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2013,2013,1882.0,20963.0,11.14,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2014,2014,2314.0,21410.0,9.25,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2015,2015,2414.0,23662.0,9.8,Haveri,,,,,,,No district-year match
+1. Karnataka,Haveri,2016,2016,2848.0,28931.0,10.16,Haveri,504.4233723958333,394.6783007303874,8.0,18.9075,8.0,0.0,Matched district-year
+1. Karnataka,Haveri,2017,2017,4053.0,43957.0,10.85,Haveri,747.58648630778,468.1490605672201,8.0,24.36875,8.0,0.0,Matched district-year
+1. Karnataka,Haveri,2018,2018,6409.0,57225.0,8.93,Haveri,718.2867436726888,378.8698994954427,8.0,19.57125,8.0,0.0,Matched district-year
+1. Karnataka,Haveri,2019,2019,7158.0,77362.0,10.81,Haveri,1155.1306177775066,695.3812098185222,8.0,17.6525,8.0,0.0,Matched district-year
+1. Karnataka,Haveri,2020,2020,8372.0,94285.0,11.26,Haveri,851.885178120931,563.8850410461425,8.0,11.68,8.0,0.0,Matched district-year
+1. Karnataka,Haveri,2021,2021,12355.0,138164.0,11.18,Haveri,1151.0984639485678,566.1255467732748,8.0,9.415000000000001,8.0,0.0,Matched district-year
+1. Karnataka,Haveri,2022,2022,16587.0,144311.0,8.7,Haveri,1286.110683186849,702.4799072265625,8.0,7.75875,8.0,0.0,Matched district-year
+1. Karnataka,Kodagu,1997,1997,959.0,1342.0,1.4,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,1998,1998,1097.0,7388.0,6.73,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2000,2000,1198.0,1676.0,1.4,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2001,2001,1230.0,1721.0,1.4,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2003,2003,1344.0,1880.0,1.4,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2004,2004,1386.0,1939.0,1.4,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2005,2005,1423.0,9582.0,6.73,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2006,2006,2298.0,3215.0,1.4,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2007,2007,2851.0,19199.0,6.73,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2008,2008,2994.0,20162.0,6.73,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2009,2009,3067.0,20653.0,6.73,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2010,2010,3612.0,39056.0,10.81,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2011,2011,3838.0,31081.0,8.1,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2012,2012,3877.0,31117.0,8.03,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2013,2013,3894.0,43373.0,11.14,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2014,2014,4613.0,42682.0,9.25,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2015,2015,4584.0,44932.0,9.8,Kodagu,,,,,,,No district-year match
+1. Karnataka,Kodagu,2016,2016,4588.0,46607.0,10.16,Kodagu,1002.9807006835938,811.194559733073,5.0,10.55,5.0,0.0,Matched district-year
+1. Karnataka,Kodagu,2017,2017,4513.0,48946.0,10.85,Kodagu,1449.8803076171876,1070.4699340820312,5.0,10.338,5.0,0.0,Matched district-year
+1. Karnataka,Kodagu,2018,2018,7714.0,68877.0,8.93,Kodagu,2225.385302734375,1731.7739339192708,5.0,10.306000000000001,5.0,0.0,Matched district-year
+1. Karnataka,Kodagu,2019,2019,12437.0,134417.0,10.81,Kodagu,1926.7348958333332,1504.7346923828125,5.0,10.368,5.0,0.0,Matched district-year
+1. Karnataka,Kodagu,2020,2020,22840.0,257224.0,11.26,Kodagu,1615.454775390625,1326.590283203125,5.0,10.03,5.0,0.0,Matched district-year
+1. Karnataka,Kodagu,2021,2021,25708.0,219678.0,8.55,Kodagu,1821.5883203125,1101.361983235677,5.0,10.408,5.0,0.0,Matched district-year
+1. Karnataka,Kodagu,2022,2022,28861.0,236660.0,8.2,Kodagu,2124.719225260417,1499.630037434896,5.0,10.788,5.0,0.0,Matched district-year
+1. Karnataka,Kolar,1997,1997,111.0,155.0,1.4,Kolar,,,,,,,No district-year match
+1. Karnataka,Kolar,1998,1998,111.0,749.0,6.75,Kolar,,,,,,,No district-year match
+1. Karnataka,Kolar,2000,2000,86.0,120.0,1.4,Kolar,,,,,,,No district-year match
+1. Karnataka,Kolar,2001,2001,81.0,113.0,1.4,Kolar,,,,,,,No district-year match
+1. Karnataka,Kolar,2003,2003,67.0,94.0,1.4,Kolar,,,,,,,No district-year match
+1. Karnataka,Kolar,2004,2004,54.0,76.0,1.41,Kolar,,,,,,,No district-year match
+1. Karnataka,Kolar,2005,2005,54.0,364.0,6.74,Kolar,,,,,,,No district-year match
+1. Karnataka,Kolar,2006,2006,54.0,76.0,1.41,Kolar,,,,,,,No district-year match
+1. Karnataka,Kolar,2018,2018,5.0,45.0,9.0,Kolar,556.5977322048611,278.0978658040365,6.0,74.85833333333333,6.0,0.0,Matched district-year
+1. Karnataka,Kolar,2019,2019,8.0,86.0,10.75,Kolar,729.385230170356,368.7956156412761,6.0,76.94333333333333,6.0,0.0,Matched district-year
+1. Karnataka,Kolar,2020,2020,4.0,45.0,11.25,Kolar,1315.4047634548613,710.6837307400174,6.0,71.95333333333333,6.0,0.0,Matched district-year
+1. Karnataka,Kolar,2021,2021,12.0,132.0,11.0,Kolar,1504.5171006944445,744.7530036078559,6.0,44.565,6.0,0.0,Matched district-year
+1. Karnataka,Kolar,2022,2022,15.0,74.0,4.93,Kolar,1313.1808905707464,635.8212232801649,6.0,21.063333333333333,6.0,0.0,Matched district-year
+1. Karnataka,Koppal,2020,2020,8.0,90.0,11.25,Koppal,1051.1825706845239,725.876691545759,7.0,8.62,7.0,0.0,Matched district-year
+1. Karnataka,Koppal,2021,2021,4.0,44.0,11.0,Koppal,856.4733450753348,533.379632859003,7.0,6.751428571428571,7.0,0.0,Matched district-year
+1. Karnataka,Koppal,2022,2022,11.0,56.0,5.09,Koppal,853.0220336914062,500.4182753789993,7.0,8.347142857142858,7.0,0.0,Matched district-year
+1. Karnataka,Mandya,1997,1997,630.0,881.0,1.4,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,1998,1998,674.0,4539.0,6.73,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2000,2000,700.0,979.0,1.4,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2001,2001,732.0,1023.0,1.4,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2003,2003,816.0,1141.0,1.4,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2004,2004,879.0,1229.0,1.4,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2005,2005,833.0,5610.0,6.73,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2006,2006,868.0,1213.0,1.4,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2007,2007,620.0,4176.0,6.74,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2008,2008,653.0,4398.0,6.74,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2009,2009,851.0,5731.0,6.73,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2010,2010,873.0,9440.0,10.81,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2011,2011,883.0,7151.0,8.1,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2012,2012,1081.0,8676.0,8.03,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2013,2013,986.0,10983.0,11.14,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2014,2014,674.0,6236.0,9.25,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2015,2015,873.0,8557.0,9.8,Mandya,,,,,,,No district-year match
+1. Karnataka,Mandya,2016,2016,565.0,5739.0,10.16,Mandya,592.7623703729539,407.41291300455725,7.0,10.08,7.0,0.0,Matched district-year
+1. Karnataka,Mandya,2017,2017,370.0,4013.0,10.85,Mandya,1208.835851469494,661.6651576450893,7.0,12.642857142857142,7.0,0.0,Matched district-year
+1. Karnataka,Mandya,2018,2018,1842.0,16447.0,8.93,Mandya,1125.3936622256324,667.9683256603423,7.0,9.549999999999999,7.0,0.0,Matched district-year
+1. Karnataka,Mandya,2019,2019,1878.0,20297.0,10.81,Mandya,1079.651031203497,585.978330485026,7.0,10.182857142857143,7.0,0.0,Matched district-year
+1. Karnataka,Mandya,2020,2020,2765.0,31139.0,11.26,Mandya,1010.0245303199405,538.6335827055431,7.0,8.235714285714286,7.0,0.0,Matched district-year
+1. Karnataka,Mandya,2021,2021,2981.0,33338.0,11.18,Mandya,1223.008605375744,469.0456795828683,7.0,8.921428571428573,7.0,0.0,Matched district-year
+1. Karnataka,Mandya,2022,2022,4359.0,25064.0,5.75,Mandya,1686.3907447451636,944.2353620256697,7.0,5.457142857142857,7.0,0.0,Matched district-year
+1. Karnataka,Mysore,1997,1997,600.0,426.0,0.71,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,1998,1998,453.0,1589.0,3.51,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2000,2000,400.0,284.0,0.71,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2001,2001,798.0,566.0,0.71,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2003,2003,645.0,458.0,0.71,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2004,2004,676.0,480.0,0.71,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2005,2005,556.0,1950.0,3.51,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2006,2006,1026.0,728.0,0.71,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2007,2007,911.0,3195.0,3.51,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2008,2008,1109.0,3890.0,3.51,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2009,2009,1066.0,3739.0,3.51,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2010,2010,1375.0,14868.0,10.81,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2011,2011,1424.0,11532.0,8.1,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2012,2012,1527.0,12256.0,8.03,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2013,2013,1617.0,18011.0,11.14,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2014,2014,1786.0,16525.0,9.25,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2015,2015,1485.0,14556.0,9.8,Mysore,,,,,,,No district-year match
+1. Karnataka,Mysore,2016,2016,1567.0,15918.0,10.16,Mysore,480.5570427788628,313.23263343124796,9.0,13.1975,8.0,1.0,Matched district-year
+1. Karnataka,Mysore,2017,2017,1616.0,17526.0,10.85,Mysore,1089.1982259114584,603.4046125139508,9.0,13.8525,8.0,1.0,Matched district-year
+1. Karnataka,Mysore,2018,2018,3130.0,27947.0,8.93,Mysore,967.2212348090278,537.1641960991753,9.0,10.965,8.0,1.0,Matched district-year
+1. Karnataka,Mysore,2019,2019,3205.0,34639.0,10.81,Mysore,1063.1612340856482,625.0843049225983,9.0,10.63625,8.0,1.0,Matched district-year
+1. Karnataka,Mysore,2020,2020,3647.0,41073.0,11.26,Mysore,908.0996550383392,533.3729296487476,9.0,10.2225,8.0,1.0,Matched district-year
+1. Karnataka,Mysore,2021,2021,3935.0,44002.0,11.18,Mysore,1144.630677625868,407.19958437965033,9.0,10.43625,8.0,1.0,Matched district-year
+1. Karnataka,Mysore,2022,2022,5800.0,37698.0,6.5,Mysore,1488.5825909649884,771.2256449058573,9.0,7.734999999999999,8.0,1.0,Matched district-year
+1. Karnataka,Ramanagara,2007,2007,868.0,5846.0,6.74,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2008,2008,2051.0,13813.0,6.73,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2009,2009,2063.0,13894.0,6.73,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2010,2010,2330.0,25194.0,10.81,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2011,2011,2331.0,18877.0,8.1,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2012,2012,1329.0,10666.0,8.03,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2013,2013,1274.0,14190.0,11.14,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2014,2014,1452.0,13435.0,9.25,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2015,2015,1736.0,17016.0,9.8,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2016,2016,1878.0,19077.0,10.16,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2017,2017,1878.0,20368.0,10.85,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2018,2018,1811.0,16170.0,8.93,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2019,2019,2907.0,31418.0,10.81,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2020,2020,3050.0,34349.0,11.26,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2021,2021,3278.0,36659.0,11.18,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Ramanagara,2022,2022,3760.0,18989.0,5.05,Ramanagara,,,,,,,No district-year match
+1. Karnataka,Shimoga,1997,1997,26588.0,40010.0,1.5,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,1998,1998,19163.0,137087.0,7.15,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2000,2000,23927.0,36005.0,1.5,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2001,2001,26359.0,39665.0,1.5,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2003,2003,28039.0,42193.0,1.5,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2004,2004,29150.0,43865.0,1.5,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2005,2005,31167.0,222961.0,7.15,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2006,2006,32938.0,49565.0,1.5,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2007,2007,35492.0,253901.0,7.15,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2008,2008,37631.0,269202.0,7.15,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2009,2009,41185.0,294627.0,7.15,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2010,2010,43530.0,373631.0,8.58,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2011,2011,45411.0,243442.0,5.36,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2012,2012,47478.0,254522.0,5.36,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2013,2013,48401.0,538587.0,11.13,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2014,2014,51689.0,386605.0,7.48,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2015,2015,52550.0,505418.0,9.62,Shimoga,,,,,,,No district-year match
+1. Karnataka,Shimoga,2016,2016,55256.0,629637.0,11.39,Shimoga,1289.0767259247448,1153.1193277994792,7.0,8.764285714285714,7.0,0.0,Matched district-year
+1. Karnataka,Shimoga,2017,2017,58855.0,645592.0,10.97,Shimoga,1535.5737900091679,1237.7137137276786,7.0,9.784285714285714,7.0,0.0,Matched district-year
+1. Karnataka,Shimoga,2018,2018,92241.0,846523.0,9.18,Shimoga,1982.7342192150297,1593.0489178093114,7.0,8.861428571428572,7.0,0.0,Matched district-year
+1. Karnataka,Shimoga,2019,2019,93584.0,921386.0,9.85,Shimoga,2354.8453506988735,1859.9635328643176,7.0,9.098571428571429,7.0,0.0,Matched district-year
+1. Karnataka,Shimoga,2020,2020,100486.0,1184730.0,11.79,Shimoga,1986.0341696395355,1605.7912760416668,7.0,7.837142857142857,7.0,0.0,Matched district-year
+1. Karnataka,Shimoga,2021,2021,111758.0,1188549.0,10.64,Shimoga,2365.1909075055805,1558.5184927388925,7.0,7.937142857142858,7.0,0.0,Matched district-year
+1. Karnataka,Shimoga,2022,2022,118836.0,760549.0,6.4,Shimoga,2246.844045626063,1670.7724303784014,7.0,7.228571428571429,7.0,0.0,Matched district-year
+1. Karnataka,Tumkur,1997,1997,7282.0,8932.0,1.23,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,1998,1998,7649.0,43262.0,5.66,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2000,2000,10428.0,12791.0,1.23,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2001,2001,12628.0,15490.0,1.23,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2003,2003,15459.0,18962.0,1.23,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2004,2004,16197.0,19867.0,1.23,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2005,2005,19044.0,107710.0,5.66,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2006,2006,19584.0,24022.0,1.23,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2007,2007,19937.0,112761.0,5.66,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2008,2008,22058.0,124757.0,5.66,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2009,2009,25045.0,141651.0,5.66,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2010,2010,29014.0,259664.0,8.95,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2011,2011,29807.0,217923.0,7.31,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2012,2012,30917.0,226039.0,7.31,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2013,2013,29334.0,241183.0,8.22,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2014,2014,32775.0,314901.0,9.61,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2015,2015,34719.0,351452.0,10.12,Tumkur,,,,,,,No district-year match
+1. Karnataka,Tumkur,2016,2016,35680.0,262981.0,7.37,Tumkur,547.3872157796225,371.80085600353425,10.0,25.606,10.0,0.0,Matched district-year
+1. Karnataka,Tumkur,2017,2017,37211.0,309631.0,8.32,Tumkur,958.2197619628907,481.2865606398809,10.0,27.708,10.0,0.0,Matched district-year
+1. Karnataka,Tumkur,2018,2018,55148.0,501469.0,9.09,Tumkur,690.2926309058779,346.2109613037109,10.0,28.591,10.0,0.0,Matched district-year
+1. Karnataka,Tumkur,2019,2019,55710.0,602104.0,10.81,Tumkur,887.0713582938058,453.1988753255208,10.0,32.756,10.0,0.0,Matched district-year
+1. Karnataka,Tumkur,2020,2020,64457.0,767683.0,11.91,Tumkur,1016.5688164411273,623.7741047014508,10.0,28.923000000000002,10.0,0.0,Matched district-year
+1. Karnataka,Tumkur,2021,2021,69083.0,802401.0,11.62,Tumkur,1242.668731108166,429.5644082205637,10.0,24.439,10.0,0.0,Matched district-year
+1. Karnataka,Tumkur,2022,2022,85972.0,541626.0,6.3,Tumkur,1417.8962176804316,801.7096410551525,10.0,10.163,10.0,0.0,Matched district-year
+1. Karnataka,Udupi,1998,1998,3629.0,30376.0,8.37,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2000,2000,4012.0,7157.0,1.78,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2001,2001,4877.0,8700.0,1.78,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2003,2003,4954.0,8838.0,1.78,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2004,2004,5019.0,8954.0,1.78,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2005,2005,5127.0,42915.0,8.37,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2006,2006,5174.0,9230.0,1.78,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2007,2007,5294.0,44313.0,8.37,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2008,2008,5474.0,45820.0,8.37,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2009,2009,5864.0,49084.0,8.37,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2010,2010,7028.0,86311.0,12.28,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2011,2011,7403.0,57642.0,7.79,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2012,2012,7501.0,58405.0,7.79,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2013,2013,7714.0,60751.0,7.88,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2014,2014,7856.0,109506.0,13.94,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2015,2015,7905.0,151863.0,19.21,Udupi,,,,,,,No district-year match
+1. Karnataka,Udupi,2016,2016,7980.0,81570.0,10.22,Udupi,3520.3682686941966,3258.523721832483,7.0,6.021428571428571,7.0,0.0,Matched district-year
+1. Karnataka,Udupi,2017,2017,8106.0,114476.0,14.12,Udupi,3736.4833170572915,3260.2404479565266,7.0,6.721428571428572,7.0,0.0,Matched district-year
+1. Karnataka,Udupi,2018,2018,21628.0,161551.0,7.47,Udupi,4905.577171688988,4196.344669430272,7.0,6.678571428571429,7.0,0.0,Matched district-year
+1. Karnataka,Udupi,2019,2019,21818.0,183922.0,8.43,Udupi,4931.137230282738,4210.268509845345,7.0,6.807142857142857,7.0,0.0,Matched district-year
+1. Karnataka,Udupi,2020,2020,23702.0,284661.0,12.01,Udupi,4761.482445126488,4204.765552256059,7.0,6.1257142857142854,7.0,0.0,Matched district-year
+1. Karnataka,Udupi,2021,2021,23207.0,362151.0,15.61,Udupi,4974.516996837798,3669.671320950255,7.0,5.862857142857143,7.0,0.0,Matched district-year
+1. Karnataka,Udupi,2022,2022,23052.0,195938.0,8.5,Udupi,4134.867489769345,3479.037602638712,7.0,6.227142857142858,7.0,0.0,Matched district-year
+1. Karnataka,Uttar Kannada,1997,1997,9363.0,12727.0,1.36,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,1998,1998,9728.0,63023.0,6.48,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2000,2000,11160.0,15169.0,1.36,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2001,2001,11483.0,15608.0,1.36,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2003,2003,12177.0,16552.0,1.36,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2004,2004,12287.0,16701.0,1.36,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2005,2005,14324.0,92799.0,6.48,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2006,2006,14813.0,20135.0,1.36,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2007,2007,14988.0,97101.0,6.48,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2008,2008,15801.0,102368.0,6.48,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2009,2009,16078.0,104162.0,6.48,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2010,2010,16634.0,232441.0,13.97,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2011,2011,17075.0,240463.0,14.08,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2012,2012,17746.0,249912.0,14.08,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2013,2013,17671.0,196828.0,11.14,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2014,2014,17912.0,227247.0,12.69,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2015,2015,18431.0,243411.0,13.21,Uttar kannad,,,,,,,No district-year match
+1. Karnataka,Uttar Kannada,2016,2016,18527.0,246513.0,13.31,Uttar kannad,1697.0354714529856,1639.5507255433097,12.0,7.4425,12.0,0.0,Matched district-year
+1. Karnataka,Uttar Kannada,2017,2017,18925.0,225204.0,11.9,Uttar kannad,1939.8599821060423,1762.5001964750743,12.0,8.010833333333332,12.0,0.0,Matched district-year
+1. Karnataka,Uttar Kannada,2018,2018,30989.0,436410.0,14.08,Uttar kannad,2350.0715944320436,2107.5827451675655,12.0,7.071666666666666,12.0,0.0,Matched district-year
+1. Karnataka,Uttar Kannada,2019,2019,30549.0,437472.0,14.32,Uttar kannad,3341.4860454256573,2959.142949955047,12.0,6.395,12.0,0.0,Matched district-year
+1. Karnataka,Uttar Kannada,2020,2020,30670.0,439961.0,14.34,Uttar kannad,2725.1785770476813,2580.6599980429996,12.0,5.4383333333333335,12.0,0.0,Matched district-year
+1. Karnataka,Uttar Kannada,2021,2021,32698.0,474117.0,14.5,Uttar kannad,2686.008025638641,2071.2469253297836,12.0,5.855833333333333,12.0,0.0,Matched district-year
+1. Karnataka,Uttar Kannada,2022,2022,34515.0,446964.0,12.95,Uttar kannad,2583.8591717432414,2273.17099284823,12.0,5.664166666666667,12.0,0.0,Matched district-year
+1. Karnataka,Vijayanagara,2022,2022,2611.0,21277.0,8.15,Vijayanagar,1012.4198358444941,548.4625279986668,6.0,12.036666666666667,6.0,0.0,Matched district-year
+1. Karnataka,Yadgir,2021,2021,1.0,11.0,11.0,Yadgir,883.1704985119048,637.291011749752,6.0,4.246666666666667,6.0,0.0,Matched district-year

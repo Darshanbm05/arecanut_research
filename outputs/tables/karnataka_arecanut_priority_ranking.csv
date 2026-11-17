@@ -1,0 +1,21 @@
+District_x,Area_2012_13,District_Canonical,District_y,Area_2022_23,Area_Change_ha,Estimated_Irrigation_Gap_MCM_year,Mean_DrySeason_Rainfall_mm,High_stress_direct_pct,Expansion_Flag,WaterGap_Flag,GWStress_Flag,LowDrySeasonRain_Flag,Indicators_Available,Priority_Score,Priority_Class
+Shimoga,47478.0,Shivamogga,Shimoga,118836.0,71358.0,608.647046551358,181.835,50.0,True,True,True,True,4,4,High priority
+Chitradurga,17251.0,Chitradurga,Chitradurga,52615.0,35364.0,264.61488822110766,205.2125,83.3,True,True,True,True,4,4,High priority
+Tumkur,30917.0,Tumakuru,Tumkur,85972.0,55055.0,401.3277916009191,278.6825,60.0,True,True,True,False,4,3,High priority
+Dakshin kannad,27921.0,Dakshina Kannada,Dakshin kannad,107476.0,79555.0,500.0323107754596,365.54875,0.0,True,True,False,False,4,2,Moderate priority
+Davangere,29415.0,Davangere,Davangere,83088.0,53673.0,416.69729439753087,253.845,0.0,True,True,False,False,4,2,Moderate priority
+Chikmagalur,26470.0,Chikkamagaluru,Chikmagalur,83867.0,57397.0,411.7884025841118,243.82375,22.2,True,True,False,False,4,2,Moderate priority
+Uttar kannad,17746.0,Uttara Kannada,Uttar kannad,34515.0,16769.0,176.9789265111111,193.1425,0.0,False,True,False,True,4,2,Moderate priority
+Kodagu,3877.0,Kodagu,Kodagu,28861.0,24984.0,128.47025478240053,389.82125,0.0,True,False,False,False,4,1,Lower priority
+Haveri,1873.0,Haveri,Haveri,16587.0,14714.0,84.63404093780863,188.0975,12.5,False,False,False,True,4,1,Lower priority
+Bangalore rural,1380.0,Bengaluru Rural,Bangalore rural,4028.0,2648.0,18.34274493950617,292.93,100.0,False,False,True,False,4,1,Lower priority
+Ramanagara,1329.0,Ramanagara,Ramanagara,3760.0,2431.0,16.961743672153634,317.8925,60.0,False,False,True,False,4,1,Lower priority
+Chamarajanagar,332.0,Chamarajanagara,Chamarajanagar,1332.0,1000.0,5.7448920961728405,360.12125,40.0,False,False,True,False,4,1,Lower priority
+Chikballapur,159.0,Chikkaballapura,Chikballapur,746.0,587.0,3.459341562887517,280.8075,100.0,False,False,True,False,4,1,Lower priority
+Dharwad,4.0,Dharwad,Dharwad,185.0,181.0,0.962122606910151,164.74375,0.0,False,False,False,True,4,1,Lower priority
+Bellary,132.0,Ballari,Bellary,134.0,2.0,0.7245326758436214,121.93375,0.0,False,False,False,True,4,1,Lower priority
+Udupi,7501.0,Udupi,Udupi,23052.0,15551.0,112.96890938925924,291.00125,0.0,False,False,False,False,4,0,Lower priority
+Hassan,4598.0,Hassan,Hassan,15875.0,11277.0,67.90268604766804,381.4275,0.0,False,False,False,False,4,0,Lower priority
+Mysore,1527.0,Mysuru,Mysore,5800.0,4273.0,27.20510041426612,290.03625,25.0,False,False,False,False,4,0,Lower priority
+Mandya,1081.0,Mandya,Mandya,4359.0,3278.0,19.569597786687243,329.3625,0.0,False,False,False,False,4,0,Lower priority
+Bengaluru urban,346.0,Bengaluru urban,Bengaluru urban,901.0,555.0,,,,False,,,,1,0,Insufficient indicators

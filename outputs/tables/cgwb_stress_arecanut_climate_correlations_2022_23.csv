@@ -1,0 +1,6 @@
+Indicator,Districts_n,Pearson_r,Spearman_rho
+High-stress taluk share vs Area_ha,23,-0.1433748316400514,-0.23864429709432436
+High-stress taluk share vs Production_t,23,-0.19171230984910292,-0.2529527346074744
+High-stress taluk share vs Yield_t_ha,23,-0.12390583185386343,-0.12673187511647205
+High-stress taluk share vs Mean_Annual_Rainfall_2016_2023_mm,23,-0.34998888903052583,-0.2974110940233336
+High-stress taluk share vs Mean_Static_Water_Level_2016_2023_m_bgl,23,0.8224467642495858,0.7665234382044681

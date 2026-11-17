@@ -1,0 +1,4 @@
+Match_Method,Confidence,Taluk_Count
+Existing direct match,High,151
+Nearest matched taluk within same district,Low – proxy only,5
+Official CGWB name/verified spelling alias,High,84

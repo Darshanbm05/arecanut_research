@@ -1,0 +1,10 @@
+Agricultural_indicator,Water_climate_indicator,Districts_n,Pearson_r,Spearman_rho
+Arecanut area,Mean annual rainfall,26,0.4482750436742851,0.646264328132281
+Arecanut area,Mean JJAS rainfall,26,0.43443652682970807,0.5064113597692635
+Arecanut area,Mean groundwater depth,26,-0.22149264831945029,-0.2540605268795157
+Arecanut production,Mean annual rainfall,26,0.47015897564783865,0.6496837161118169
+Arecanut production,Mean JJAS rainfall,26,0.4657411953768232,0.5153017685160568
+Arecanut production,Mean groundwater depth,26,-0.25380353614363776,-0.2650025684140305
+Arecanut yield,Mean annual rainfall,26,0.25716692040969685,0.12514960005101314
+Arecanut yield,Mean JJAS rainfall,26,0.31202393132141065,0.2697897115853808
+Arecanut yield,Mean groundwater depth,26,-0.18876839697565168,0.018806633887447327
